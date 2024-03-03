@@ -1,0 +1,4 @@
+alias duc="cd /home/agastya/workspace/github.com/rajagennu/DailyUseCommands"
+alias ll="ls -ltrh"
+alias gh="cd /home/agastya/workspace/github.com/rajagennu"
+

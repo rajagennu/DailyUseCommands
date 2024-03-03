@@ -1,0 +1,13 @@
+new tab : c + s + t
+close tab : c + s  q
+next tab : c + s + r.arrow
+prev tab: c + s + l.arrow
+
+# Window split
+new window: c + s + enter
+close : c + s + w 
+next : c + s + ]
+prev w: c + s + [
+new window : alother : C + S+ n
+# layout arrange => c + s + l 	
+
